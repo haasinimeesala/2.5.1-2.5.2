@@ -1,3 +1,8 @@
+/*
+ * Activity 2.5.2
+ *
+ * The PhraseSolver Class
+ */
 import java.util.Scanner;
 
 public class PhraseSolver {

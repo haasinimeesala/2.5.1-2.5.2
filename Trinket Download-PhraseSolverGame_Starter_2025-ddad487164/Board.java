@@ -1,3 +1,8 @@
+/*
+ * Activity 2.5.2
+ *
+ * The runner for the Board Class
+ */
 import java.util.Scanner;
 import java.io.File;
 

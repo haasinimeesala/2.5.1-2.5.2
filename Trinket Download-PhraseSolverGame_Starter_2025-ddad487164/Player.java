@@ -1,3 +1,9 @@
+/*
+ * Activity 2.5.2
+ *
+ * The Player Class
+ */
+
 import java.util.Scanner;
 
 public class Player {
